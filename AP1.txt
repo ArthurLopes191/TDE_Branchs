@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 1
 2
 3
@@ -20,21 +21,24 @@
 19
 20
 =======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Vestibulum vehicula erat eu sapien gravida, vitae scelerisque eros cursus. 
-Vivamus dictum diam augue, a ultrices nibh ultricies nec. 
-Pellentesque sit amet justo interdum, consequat velit sit amet, consectetur diam. 
-Phasellus quis tellus id dolor bibendum tristique ullamcorper non eros. 
-Nunc dapibus justo nulla, tincidunt gravida nulla vehicula sit amet. 
-Curabitur ac lorem ut lorem maximus consectetur sit amet a metus. 
-Nunc ac velit bibendum, pharetra diam eu, feugiat felis. 
-Vivamus nec ultrices neque. 
-Aenean vitae commodo purus, quis sagittis nibh. Sed sit amet tincidunt neque. 
-Quisque tempus nulla at pellentesque tincidunt.
+Parte do Gustavo abaixo
+=======
+Commit_1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+____________________________________________________________________________________________________________________________
+
+Commit_2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
-conteúdo linha 15
 
-conteúdo linha 17
->>>>>>> Feature_2
+
+>>>>>>> origin/feature_GustaDuarte
