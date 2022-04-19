@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -18,3 +19,22 @@
 18
 19
 20
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Vestibulum vehicula erat eu sapien gravida, vitae scelerisque eros cursus. 
+Vivamus dictum diam augue, a ultrices nibh ultricies nec. 
+Pellentesque sit amet justo interdum, consequat velit sit amet, consectetur diam. 
+Phasellus quis tellus id dolor bibendum tristique ullamcorper non eros. 
+Nunc dapibus justo nulla, tincidunt gravida nulla vehicula sit amet. 
+Curabitur ac lorem ut lorem maximus consectetur sit amet a metus. 
+Nunc ac velit bibendum, pharetra diam eu, feugiat felis. 
+Vivamus nec ultrices neque. 
+Aenean vitae commodo purus, quis sagittis nibh. Sed sit amet tincidunt neque. 
+Quisque tempus nulla at pellentesque tincidunt.
+
+
+
+conteúdo linha 15
+
+conteúdo linha 17
+>>>>>>> Feature_2
